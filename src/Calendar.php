@@ -145,10 +145,6 @@ class Calendar implements CalendarInterface
             }
         }
 
-        var_dump( 'POOOOOOOOOOOOOOOOOOOOOOOOO' );
-        var_dump( $calendar );
-        // var_dump( $date );
-
         return $calendar;
     }
 }
