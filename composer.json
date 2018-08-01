@@ -21,5 +21,8 @@
         "psr-4": {
             "Calendar\\": "test/"
         }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.2"
     }
 }
